@@ -1,0 +1,18 @@
+*{
+
+    margin: 0;
+}
+
+h3{
+
+    background-image: url(./images\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+
+    border-top: 2px solid blueviolet;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px blueviolet;
+}
